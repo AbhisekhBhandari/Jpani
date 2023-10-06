@@ -1,0 +1,126 @@
+{
+  "auth": {
+    "login": "تسجيل الدخول",
+    "create_account": "إنشاء حساب",
+    "phone_number": {
+      "title": "أدخل رقم هاتفك المحمول",
+      "description": "أدخل رقم هاتفك المحمول للمتابعة إلى حسابك"
+    },
+    "verification_code": {
+      "title": "أدخل رمز التحقق الخاص بك",
+      "description": "أدخل رمز التحقق الخاص بك للمتابعة إلى حسابك",
+      "no_receiving_email": "لم تستلم البريد الإلكتروني؟ تحقق من الصفحة الترويجية أو البريد العشوائي أو أعد إرسال الرمز"
+    },
+    "create_email": {
+      "title": "ما هو بريدك الإلكتروني؟",
+      "description": "أدخل بريدك الإلكتروني للمتابعة إلى حسابك"
+    },
+    "create_password": {
+      "title": "أنشئ كلمة مرورك",
+      "description": "أدخل كلمة المرور الخاصة بك للمتابعة إلى حسابك"
+    },
+    "create_name": {
+      "title": "ما هو اسمك؟",
+      "description": "أدخل اسمك للمتابعة إلى حسابك"
+    },
+    "terms": {
+      "title": "قبول شروط وأحكام Tamwenat وسياسات الخصوصية",
+      "description": "باختيار \"أوافق\"، قرأت بالكامل وأوافق على شروط وأحكام Tamwenat وسياسة الخصوصية"
+    },
+    "footer_info": "من خلال تسجيل الدخول أو إنشاء حساب، فإنك توافق على شروط وأحكام Tamwenat وسياسات الخصوصية"
+  },
+  "home": {
+    "today_promo": "العروض اليومية",
+    "other_favorites": "المفضلة لدى الآخرين",
+    "delivering_order": "جاري توصيل طلبك"
+  },
+  "restaurant": {
+    "detail_menu": {
+      "notes_message": "اترك رسالة للمطعم"
+    }
+  },
+  "order": {
+    "checkout": {
+      "delivery_options": "خيارات التوصيل",
+      "order_summary": "ملخص الطلب",
+      "others_bought": "اشتروا أيضًا",
+      "payment_summary": "ملخص الدفع",
+      "payment_method": "طريقة الدفع"
+    },
+    "order_id": "رقم الطلب",
+    "order_status": "حالة الطلب",
+    "info": "معلومات الطلب",
+    "status": "حالة الطلب",
+    "receipt": "إيصال",
+    "total_price": "إجمالي سعر العناصر",
+    "vat": "ضريبة القيمة المضافة (5%)",
+    "discount": "خصم",
+    "details": "تفاصيل الطلب",
+    "contact_merchant": "اتصل بالتاجر",
+    "cancel_order": "إلغاء الطلب",
+    "name": "الطلبات"
+  },
+
+  "tender": {
+    "detail": "تفاصيل العرض",
+    "totalAgreement": "إجمالي الاتفاقية",
+    "supplied": "تم التوريد",
+    "net": "صافي",
+    "tender_name": "عرض",
+    "create_tender": "Create Tender (Arabic)"
+  },
+
+  "general": {
+    "orders": "الطلبات",
+    "continue": "متابعة",
+    "help": "المساعدة",
+    "code": "الرمز",
+    "email": "عنوان البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "full_name": "الاسم الكامل",
+    "i_agree": "أوافق",
+    "add": "إضافة",
+    "discount": "خصم",
+    "open_until": "مفتوح حتى",
+    "branch_manager": "مدير الفرع",
+    "check_location": "تحقق من مواقعنا الأخرى",
+    "home": "الرئيسية",
+    "promo": "العروض",
+    "chat": "الدردشة",
+    "profile": "الملف الشخصي",
+    "see_all": "عرض الكل",
+    "notes": "ملاحظات",
+    "done": "تم",
+    "total": "الإجمالي",
+    "change": "تغيير",
+    "view_cart": "عرض السلة",
+    "delivery": "التوصيل",
+    "add_notes": "+ إضافة ملاحظات",
+    "edit": "تحرير",
+    "order_now": "اطلب الآن",
+    "bag": "الحقيبة",
+    "filter_by": "تصفية حسب",
+    "tenders": "عروض",
+    "chatWithUs": "الدردشة معنا",
+    "branches": "الفروع",
+    "latestorders": "أحدث الطلبات",
+    "addBranch": "إضافة فرع",
+    "greeting": "مرحبًا",
+    "simpleSearch": "بحث",
+    "search": "البحث عن الطعام...",
+    "popularSearch": "البح",
+    "order_details": "تفاصيل الطلب",
+    "logout": "تسجيل الخروج",
+    "general": "عام",
+    "settings": "الإعدادات",
+    "chats": "المحادثات",
+    "order": "الطلبات",
+    "ask_branch_name": "ما هي تفاصيل فرعك؟",
+    "branch_name_description": "أدخل تفاصيل فرعك للمتابعة",
+    "enter_branch_name": "أدخل اسم فرعك",
+    "ask_branch_address": "ما هو عنوان فرعك؟",
+    "branch_address_description": "أدخل عنوان فرعك للمتابعة",
+    "enter_branch_address": "أدخل عنوان فرعك",
+    "type_here": "اكتب هنا..."
+  }
+}

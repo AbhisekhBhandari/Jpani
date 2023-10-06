@@ -1,0 +1,130 @@
+{
+  "auth": {
+    "login": "Login",
+    "create_account": "Create account",
+    "phone_number": {
+      "title": "Enter your mobile number",
+      "description": "Enter your mobile number to proceed to your account"
+    },
+    "verification_code": {
+      "title": "Enter your verification code",
+      "description": "Enter your verification code to proceed to your account",
+      "no_receiving_email": "Not receiving email? check on promotion page, spam or Resend code"
+    },
+    "create_email": {
+      "title": "What's your email?",
+      "description": "Enter your email to proceed to your account"
+    },
+    "create_password": {
+      "title": "Create your password",
+      "description": "Enter your password to proceed to your account"
+    },
+    "create_name": {
+      "title": "What's your name?",
+      "description": "Enter your name to proceed to your account"
+    },
+    "terms": {
+      "title": "Accept Tamwenat Terms and Condition & Privacy Policies",
+      "description": "By selecting \"I Agree\", I have read in full and agree to Tamwenat Terms and Conditions & Privacy Policy "
+    },
+    "footer_info": "By loging in or signing up you agree to Tamwenat's Terms and Condition & Privacy Policies"
+  },
+  "home": {
+    "today_promo": "Today's Promo",
+    "other_favorites": "Others favorites",
+    "delivering_order": "Delivering Your order"
+  },
+  "restaurant": {
+    "detail_menu": {
+      "notes_message": "Leave a message to the restaurant"
+    }
+  },
+  "order": {
+    "checkout": {
+      "delivery_options": "Delivery Options",
+      "order_summary": "Order Summary",
+      "others_bought": "Others also bought",
+      "payment_summary": "Payment Summary",
+      "payment_method": "Payment Method"
+    },
+    "order_id": "Order ID",
+    "order_status": "Order Status",
+    "info": "Order Info",
+    "status": "Order Status",
+    "receipt": "Receipt",
+    "total_price": "Total Item Price",
+    "vat": "Vat (5%)",
+    "discount": "Discount",
+    "details": "Order Details",
+    "contact_merchant": "Contact Merchant",
+    "cancel_order": "Cancel Order",
+    "name": "Orders"
+  },
+
+  "tender": {
+    "detail": "TENDER DETAILS",
+    "totalAgreement": "TOTAL AGREEMENT",
+    "supplied": "SUPPLIED",
+    "net": "NET",
+    "tender_name": "Tender",
+    "create_tender": "Create Tender"
+  },
+
+  "general": {
+    "orders": "Orders",
+    "continue": "Continue",
+    "help": "Help",
+    "code": "Code",
+    "email": "Email address",
+    "password": "Password",
+    "full_name": "Full name",
+    "i_agree": "I Agree",
+    "add": "Add",
+    "discount": "Discount",
+    "open_until": "Open until",
+    "manager": "Manager",
+    "check_location": "Check out our other locations",
+    "home": "Home",
+    "promo": "Promo",
+    "chat": "Chat",
+    "profile": "Profile",
+    "see_all": "See All",
+    "notes": "Notes",
+    "done": "Done",
+    "total": "Total",
+    "change": "Change",
+    "view_cart": "View cart",
+    "delivery": "Delivery",
+    "add_notes": "+ Add Notes",
+    "edit": "Edit",
+    "order_now": "Order now",
+    "bag": "Bag",
+    "filter_by": "Filter By",
+    "tenders": "Tenders",
+    "chatWithUs": "Chat with us",
+    "branches": "Branches",
+    "latestorders": "Latest Orders",
+    "addBranch": "Add Branch",
+    "greeting": "Hi",
+    "simpleSearch": "Search",
+    "search": "Search for food...",
+    "popularSearch": "Popular Search",
+    "order_details": "Order Details",
+    "logout": "Logout",
+    "general": "General",
+    "settings": "Settings",
+    "chats": "Chats",
+    "order": "Orders",
+    "ask_branch_name": "What are your branch details ?",
+    "branch_name_description": "Enter your branch details to continue",
+    "enter_branch_name": "Enter your branch name",
+    "ask_branch_address": "What is your branch address ?",
+    "branch_address_description": "Enter your branch address to continue",
+    "enter_branch_address": "Enter your branch address",
+    "type_here": "Type here...",
+    "add_branch_manager": "Add Branch Manager",
+    "branch_address_error": "Invalid branch name",
+    "branch_name_error": "Invalid branch address",
+    "branch_manager_error": "Invalid branch manager"
+  }
+}
